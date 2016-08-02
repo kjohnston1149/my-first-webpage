@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{A simple webpage to demonstrate basic HTML}, {August 1, 2016}_
+#### _A simple webpage to demonstrate basic HTML}, {August 1, 2016_
 
-#### By _**{Kevin Johnston Ryan Apking}**_
+#### By _**Kevin Johnston Ryan Apking**_
 
 ## Description
 
-_{This a basic webpage created using fundamental HTML skills, including inline elements, formatting, and hyperlinks.  That's pretty much it.}_
+_This a basic webpage created using fundamental HTML skills, including inline elements, formatting, and hyperlinks.  That's pretty much it._
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _{This a basic webpage created using fundamental HTML skills, including inline e
 * _Open code in Atom text editor_
 * _Open file in web browser such as Google Chrome_
 
-_{This is a basic HTML file.  It should run simply on a browser.}_
+_This is a basic HTML file.  It should run simply on a browser._
 
 ## Known Bugs
 
- _{There are no known bugs in this program.}_
+ _There are no known bugs in this program._
 
 ## Support and Contact Details
 
-_{For questions or concern, contact Kevin at kjohnston1149@gmail.com and please contribute to the code.}_
+_For questions or concern, contact Kevin at kjohnston1149@gmail.com and please contribute to the code._
 
 ## Technologies Used
 
-_{This used HTML and Atom text editor.}_
+_This used HTML and Atom text editor._
 
 ## License
 
-*{MIT license}
+*MIT license
 
-Copyright (c) 2016 **_{Epicodus}_**
+Copyright (c) 2016 **_Epicodus_**
